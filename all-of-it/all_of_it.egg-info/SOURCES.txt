@@ -1,0 +1,8 @@
+README.rst
+setup.py
+all_of_it/__init__.py
+all_of_it.egg-info/PKG-INFO
+all_of_it.egg-info/SOURCES.txt
+all_of_it.egg-info/dependency_links.txt
+all_of_it.egg-info/requires.txt
+all_of_it.egg-info/top_level.txt
